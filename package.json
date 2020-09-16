@@ -1,0 +1,8 @@
+{
+  "name": "project-generator",
+  "dependencies": {
+    "@yarnpkg/fslib": "^2.2.1",
+    "faker": "^5.1.0",
+    "webpack": "^4.44.1"
+  }
+}
